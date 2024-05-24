@@ -1,0 +1,1 @@
+Este proyecto se crea con la finalidad de aprender a usar de manera correcta GIT y GITHUB 
