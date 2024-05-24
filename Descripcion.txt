@@ -2,3 +2,6 @@ Este proyecto se crea con la finalidad de aprender a usar de manera correcta GIT
 
 
 Confirmo creación en pc Portátil Personal
+
+
+Confirmo Creacion en PC Corporativo
