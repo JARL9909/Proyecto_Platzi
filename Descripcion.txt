@@ -5,3 +5,7 @@ Confirmo creación en pc Portátil Personal
 
 
 Confirmo Creacion en PC Corporativo
+
+
+Una vez confirmada la creacion de los repositorios en los pc de los 
+colaboradores, continuamos con la creacion del index de nuestro proyecto
